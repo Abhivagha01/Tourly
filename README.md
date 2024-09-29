@@ -2,7 +2,7 @@
 
 **Tourly** is a fully responsive Tour Agency Website  designed for all devices, and built using **HTML**, **CSS**,**JavaScript**.
 
-[▶️ Live Demo](bloom-fashion.netlify.app)
+[▶️ Live Demo](https://tourly-ten.netlify.app)
 
 ### Demo Screenshot
 ![desktop](https://github.com/user-attachments/assets/52f9db6b-1f04-4fdb-9a08-0c7bb8186d08)
